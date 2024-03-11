@@ -404,7 +404,7 @@ const FinishPage: React.FC = () => {
           </p>
         </div>
         <div className="mt-3 flex justify-center items-center">
-          <img src="banner.png" alt="Finish" />
+          <img src="https://www.vitalx.store/banner.png" alt="Finish" />
         </div>
 
         <h1 className="text-center text-2xl text-gray-50 pr-10 pl-10 font-bold">
@@ -821,7 +821,7 @@ const FinishPage: React.FC = () => {
             RECEBER MEU PLANO
           </button>
         </div>
-        <img src="garantia7.png" alt="Garantia 30 dias" />
+        <img src="https://www.vitalx.store/garantia7.png" alt="Garantia 30 dias" />
         <h1 className="text-center text-2xl text-gray-50 font-bold">
           Garantia de reembolso de 100%
         </h1>
