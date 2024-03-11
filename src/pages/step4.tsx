@@ -25,7 +25,7 @@ const Step4Page: React.FC = () => {
         Escolha suas zonas alvos
       </h1>
       <div className="flex items-center justify-center w-full relative mt-10">
-        <img src="zonasalvo.webp" alt="Zonas Alvo" />
+        <img src="https://www.vitalx.store/zonasalvo.webp" alt="Zonas Alvo" />
         <button
           className={`absolute top-0 left-0 ml-7 p-3  text-white font-medium text-sm rounded-lg ${
             isButtonSelected("BRAÇOS") ? "bg-blue-400" : "bg-zinc-800"
