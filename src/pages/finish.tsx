@@ -16,57 +16,57 @@ const FinishPage: React.FC = () => {
     //Perda de peso
     if (planoSelecionado === "pdp1m") {
       window.location.href =
-        "https://checkout.ticto.app/OC172C851?pid=AF8D80BFE3";
+        "https://checkout.ticto.app/OC172C851?pid=AFC501830D";
       return;
     }
 
     if (planoSelecionado === "pdp3m") {
       window.location.href =
-        "https://checkout.ticto.app/O4856D67D?pid=AF8D80BFE3";
+        "https://checkout.ticto.app/O4856D67D?pid=AFC501830D";
       return;
     }
 
     if (planoSelecionado === "pdp6m") {
       window.location.href =
-        "https://checkout.ticto.app/O4F3B1264?pid=AF8D80BFE3";
+        "https://checkout.ticto.app/O4F3B1264?pid=AFC501830D";
       return;
     }
 
     //Ganho de massa
     if (planoSelecionado === "gdm1m") {
       window.location.href =
-        "https://checkout.ticto.app/OE2EA5940?pid=AFB839269A";
+        "https://checkout.ticto.app/OE2EA5940?pid=AF36BF9F81";
       return;
     }
 
     if (planoSelecionado === "gdm3m") {
       window.location.href =
-        "https://checkout.ticto.app/OA902D051?pid=AFB839269A";
+        "https://checkout.ticto.app/OA902D051?pid=AF36BF9F81";
       return;
     }
 
     if (planoSelecionado === "gdm6m") {
       window.location.href =
-        "https://checkout.ticto.app/OC073159F?pid=AFB839269As";
+        "https://checkout.ticto.app/OC073159F?pid=AF36BF9F81";
       return;
     }
 
     //Qualidade de vida
     if (planoSelecionado === "qdv1m") {
       window.location.href =
-        "https://checkout.ticto.app/O994C013F?pid=AF469A3ADC";
+        "https://checkout.ticto.app/O994C013F?pid=AF1AFF085B";
       return;
     }
 
     if (planoSelecionado === "qdv3m") {
       window.location.href =
-        "https://checkout.ticto.app/O4CBA6318?pid=AF469A3ADC";
+        "https://checkout.ticto.app/O4CBA6318?pid=AF1AFF085B";
       return;
     }
 
     if (planoSelecionado === "qdv6m") {
       window.location.href =
-        "https://checkout.ticto.app/O4A7AEA9D?pid=AF469A3ADC";
+        "https://checkout.ticto.app/O4A7AEA9D?pid=AF1AFF085B";
       return;
     }
   };
