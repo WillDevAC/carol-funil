@@ -404,7 +404,7 @@ const FinishPage: React.FC = () => {
           </p>
         </div>
         <div className="mt-3 flex justify-center items-center">
-          <img src="https://www.vitalx.store/banner.png" alt="Finish" />
+          <img src="https://www.vitalx.store/banner.png" alt="Finish" className="max-w-80"/>
         </div>
 
         <h1 className="text-center text-2xl text-gray-50 pr-10 pl-10 font-bold">
@@ -821,11 +821,17 @@ const FinishPage: React.FC = () => {
             RECEBER MEU PLANO
           </button>
         </div>
-        <img src="https://www.vitalx.store/garantia7.png" alt="Garantia 30 dias" />
+        <div className="w-full flex items-center justify-center">
+          <img
+            src="https://www.vitalx.store/garantia7.png"
+            alt="Garantia 30 dias"
+            className="max-w-52"
+          />
+        </div>
         <h1 className="text-center text-2xl text-gray-50 font-bold">
           Garantia de reembolso de 100%
         </h1>
-        <span className="text-xs font-light text-white">
+        <span className="text-xs font-light text-center text-white">
           O nosso plano funciona e você terá resultados visíveis em 4 semanas!
           Estamos dispostos a devolver seu dinheiro se você comprovar que
           aplicou e não viu resultados.

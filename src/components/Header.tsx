@@ -12,7 +12,7 @@ const Header: React.FC<IHeader> = ({ type, page, desc }) => {
     <>
       {type === "normal" && (
         <div className="flex justify-center items-center h-14 md:justify-between md:pl-60 bg-zinc-800">
-          <img src="logo.png" alt="Website Logo VitalX" className="max-w-36" />
+          <img src="https://www.vitalx.store/logo.png" alt="Website Logo VitalX" className="max-w-36" />
         </div>
       )}
 

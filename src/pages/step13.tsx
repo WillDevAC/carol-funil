@@ -36,7 +36,7 @@ const Step13Page: React.FC = () => {
         </div>
       </div>
       <div className="bg-zinc-800 m-5 p-5 rounded-lg flex flex-col gap-2">
-        <p className="text-white font-bold text-sm">Calculando seu índice de massa corporal</p>
+        <p className="text-white font-bold text-sm">Vamos calcular seu índice de massa corporal</p>
         <span className="text-zinc-200 font-light text-xs">
           O IMC é amplamente utilizado como fator de risco para o
           desenvolvimento ou prevalência de diversos problemas de saúde.
